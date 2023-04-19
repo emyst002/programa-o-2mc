@@ -2,12 +2,10 @@ header{
     padding-left: 470px;
     border-radius: 5px;
     background-color: seagreen;
-    position: relative;
-    left: 25%;
 }
 h2{
     position: relative;
-    left: 43%;
+    left: 50%%;
 }
 .texto1{
     width: 75%;

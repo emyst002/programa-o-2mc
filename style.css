@@ -1,8 +1,9 @@
 header{
-    position: relative;
     padding-left: 470px;
     border-radius: 5px;
     background-color: seagreen;
+    position: relative;
+    left: 25%;
 }
 h2{
     position: relative;

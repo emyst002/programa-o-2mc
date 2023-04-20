@@ -1,11 +1,11 @@
 header{
-    padding-left: 470px;
     border-radius: 5px;
     background-color: seagreen;
+    text-align: center;
 }
 h2{
     position: relative;
-    left: 43%%;
+    left: 43%;
 }
 .texto1{
     width: 75%;
